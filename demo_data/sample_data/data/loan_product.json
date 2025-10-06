@@ -1,0 +1,22 @@
+[
+  {
+    "doctype": "Loan Product",
+    "product_name": "Personal Loan",
+    "product_code": "PERS_LOAN",
+    "is_term_loan": 1,
+    "rate_of_interest": 12.0,
+    "maximum_loan_amount": 500000,
+    "company": "Demo Company",
+    "min_days_bw_disbursement_first_repayment": 30
+  },
+  {
+    "doctype": "Loan Product",
+    "product_name": "Staff Short Term",
+    "product_code": "STAFF_ST",
+    "is_term_loan": 1,
+    "rate_of_interest": 8.0,
+    "maximum_loan_amount": 100000,
+    "company": "Demo Company",
+    "min_days_bw_disbursement_first_repayment": 30
+  }
+]

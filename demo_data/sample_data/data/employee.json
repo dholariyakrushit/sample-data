@@ -1,0 +1,10 @@
+[
+  {
+    "doctype": "Employee",
+    "employee_name": "Alice Khan",
+    "employee_number": "EMP-001",
+    "date_of_joining": "2024-01-01",
+    "company": "SCF",
+    "status": "Active"
+  }
+]

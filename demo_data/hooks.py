@@ -7,6 +7,9 @@ app_license = "mit"
 
 # Apps
 # ------------------
+commands = [
+    "demo_data.commands"
+]
 
 # required_apps = []
 

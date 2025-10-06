@@ -1,0 +1,18 @@
+[
+  {
+    "borrower_name": "John Doe",
+    "borrower_id": "BORR-0001",
+    "email": "john@example.com",
+    "mobile_no": "9876543210",
+    "loan_limit": 500000,
+    "status": "Active"
+  },
+  {
+    "borrower_name": "Jane Smith",
+    "borrower_id": "BORR-0002",
+    "email": "jane@example.com",
+    "mobile_no": "9123456780",
+    "loan_limit": 300000,
+    "status": "Active"
+  }
+]

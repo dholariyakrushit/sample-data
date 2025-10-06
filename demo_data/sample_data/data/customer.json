@@ -1,0 +1,9 @@
+[
+  {
+    "doctype": "Customer",
+    "customer_name": "Demo Customer",
+    "customer_group": "Individual",
+    "territory": "All Territories",
+    "customer_type": "Individual"
+  }
+]
